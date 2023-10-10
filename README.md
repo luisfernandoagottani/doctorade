@@ -1,4 +1,4 @@
-# doctorade
+# Doctorade
 Doctorade in Machine Learning to solve Mechanical Engineering problems.
 Estrutura de Diretórios:
 
