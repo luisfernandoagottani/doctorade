@@ -1,0 +1,337 @@
+,Precision,Recall,Accuracy,F1-score
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.06 - Execution Time: 1.1658134460449219",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 1.3750371932983398",0.00,0.03,0.03,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 1.1955184936523438",0.00,0.03,0.03,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 1.30613112449646",0.00,0.11,0.11,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.31 - Execution Time: 2.281010866165161",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 2.217205286026001",0.00,0.01,0.01,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 1.9406187534332275",0.00,0.01,0.01,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 1.9992685317993164",0.00,0.03,0.03,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 6.12 - Execution Time: 3.345601797103882",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.474336862564087",0.00,0.01,0.01,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 2.932785987854004",0.00,0.02,0.02,0.00
+"DailyYield_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 2.945232391357422",0.00,0.03,0.03,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.24 - Execution Time: 0.7068672180175781",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.15 - Execution Time: 0.6606824398040771",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=50, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.02 - Execution Time: 0.646763801574707",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.06 - Execution Time: 0.6578977108001709",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.39 - Execution Time: 1.2229466438293457",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.39 - Execution Time: 1.277442455291748",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=100, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.03 - Execution Time: 1.329744815826416",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.01 - Execution Time: 1.4660632610321045",0.00,0.10,0.10,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.25 - Execution Time: 2.23116135597229",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.24 - Execution Time: 1.9664585590362549",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=150, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 1.9823601245880127",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.01 - Execution Time: 2.058985948562622",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - KNN(algorithm='auto', contamination=0.01, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.37 - Execution Time: 31.113297939300537",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - KNN(algorithm='auto', contamination=0.05, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.2 - Execution Time: 28.81144666671753",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - KNN(algorithm='auto', contamination=0.1, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.17 - Execution Time: 31.549885511398315",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - KNN(algorithm='auto', contamination=0.15, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.15 - Execution Time: 29.34801435470581",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ABOD(contamination=0.01, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 43.346375942230225",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ABOD(contamination=0.05, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 42.32387661933899",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ABOD(contamination=0.1, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 45.61591720581055",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ABOD(contamination=0.15, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 45.727633237838745",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - HBOS(alpha=0.1, contamination=0.01, n_bins=10, tol=0.5) - Threshold: std * 2087.85 - Execution Time: 0.008416175842285156",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - HBOS(alpha=0.1, contamination=0.05, n_bins=10, tol=0.5) - Threshold: std * 2087.81 - Execution Time: 0.007374286651611328",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - HBOS(alpha=0.1, contamination=0.1, n_bins=10, tol=0.5) - Threshold: std * 2087.81 - Execution Time: 0.006998777389526367",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - HBOS(alpha=0.1, contamination=0.15, n_bins=10, tol=0.5) - Threshold: std * 2087.76 - Execution Time: 0.0070073604583740234",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ECOD(contamination=0.01, n_jobs=1) - Threshold: std * 5.23 - Execution Time: 0.10633730888366699",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ECOD(contamination=0.05, n_jobs=1) - Threshold: std * 3.49 - Execution Time: 0.13785099983215332",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ECOD(contamination=0.1, n_jobs=1) - Threshold: std * 3.38 - Execution Time: 0.14370489120483398",0.00,0.00,0.00,0.00
+"DailyYield_B (KW) - ECOD(contamination=0.15, n_jobs=1) - Threshold: std * 2.93 - Execution Time: 0.1679062843322754",0.00,0.00,0.00,0.00
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 2.8119640350341797",0.07,0.84,0.84,0.13
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.000436305999756",0.01,0.84,0.84,0.03
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.218583345413208",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.0536341667175293",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.657702684402466",0.08,0.84,0.84,0.14
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.6171369552612305",0.01,0.84,0.84,0.03
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.941551446914673",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 3.881155014038086",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 5.062683820724487",0.09,0.84,0.84,0.16
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 5.375109434127808",0.02,0.84,0.84,0.03
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 5.26976752281189",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 4.9960479736328125",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.7 - Execution Time: 1.1283917427062988",0.06,0.42,0.42,0.10
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.02 - Execution Time: 1.151214599609375",0.01,0.42,0.42,0.01
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=50, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 1.143035650253296",0.00,0.42,0.42,0.01
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 1.1442959308624268",0.00,0.42,0.42,0.00
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.51 - Execution Time: 2.2555904388427734",0.06,0.42,0.42,0.10
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 2.223837375640869",0.01,0.42,0.42,0.02
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=100, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 2.233959436416626",0.00,0.42,0.42,0.01
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 2.22035551071167",0.00,0.42,0.42,0.00
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.49 - Execution Time: 3.313659191131592",0.06,0.42,0.42,0.10
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.2 - Execution Time: 3.12869930267334",0.01,0.42,0.42,0.02
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=150, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 3.25258469581604",0.00,0.42,0.42,0.01
+"AC_Power_B (KW) - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.01 - Execution Time: 3.172837018966675",0.00,0.42,0.42,0.00
+"AC_Power_B (KW) - KNN(algorithm='auto', contamination=0.01, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 31.813146352767944",0.14,0.84,0.84,0.23
+"AC_Power_B (KW) - KNN(algorithm='auto', contamination=0.05, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 29.80152678489685",0.01,0.84,0.84,0.03
+"AC_Power_B (KW) - KNN(algorithm='auto', contamination=0.1, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 30.238611459732056",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - KNN(algorithm='auto', contamination=0.15, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 32.146925926208496",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - ABOD(contamination=0.01, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 31.023005723953247",0.00,0.00,0.00,0.00
+"AC_Power_B (KW) - ABOD(contamination=0.05, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 32.661803245544434",0.00,0.00,0.00,0.00
+"AC_Power_B (KW) - ABOD(contamination=0.1, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 31.08490538597107",0.00,0.00,0.00,0.00
+"AC_Power_B (KW) - ABOD(contamination=0.15, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 31.931402921676636",0.00,0.00,0.00,0.00
+"AC_Power_B (KW) - HBOS(alpha=0.1, contamination=0.01, n_bins=10, tol=0.5) - Threshold: std * 7.34 - Execution Time: 0.011166810989379883",0.17,0.84,0.84,0.28
+"AC_Power_B (KW) - HBOS(alpha=0.1, contamination=0.05, n_bins=10, tol=0.5) - Threshold: std * 7.34 - Execution Time: 0.011501312255859375",0.08,0.84,0.84,0.14
+"AC_Power_B (KW) - HBOS(alpha=0.1, contamination=0.1, n_bins=10, tol=0.5) - Threshold: std * 7.27 - Execution Time: 0.017903566360473633",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - HBOS(alpha=0.1, contamination=0.15, n_bins=10, tol=0.5) - Threshold: std * 7.27 - Execution Time: 0.01607036590576172",0.01,0.84,0.84,0.01
+"AC_Power_B (KW) - ECOD(contamination=0.01, n_jobs=1) - Threshold: std * 5.84 - Execution Time: 0.11653399467468262",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - ECOD(contamination=0.05, n_jobs=1) - Threshold: std * 3.78 - Execution Time: 0.11012816429138184",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - ECOD(contamination=0.1, n_jobs=1) - Threshold: std * 2.89 - Execution Time: 0.09852290153503418",0.00,0.84,0.84,0.01
+"AC_Power_B (KW) - ECOD(contamination=0.15, n_jobs=1) - Threshold: std * 2.41 - Execution Time: 0.08548283576965332",0.00,0.84,0.84,0.01
+"AirTemperature - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.58 - Execution Time: 27.141737461090088",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 29.50186038017273",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 27.33715581893921",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 29.236668348312378",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.4 - Execution Time: 30.493252515792847",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 32.581766843795776",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 32.03116273880005",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 28.523595094680786",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.37 - Execution Time: 29.076302528381348",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 28.947739839553833",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 28.736852884292603",0.12,1.00,1.00,0.22
+"AirTemperature - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 0.0 - Execution Time: 28.874351263046265",0.12,1.00,1.00,0.22
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.49 - Execution Time: 0.7377653121948242",0.00,0.00,0.00,0.00
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.62 - Execution Time: 0.7477216720581055",0.02,1.00,1.00,0.03
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=50, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.73 - Execution Time: 0.7488772869110107",0.01,1.00,1.00,0.02
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.48 - Execution Time: 0.7502038478851318",0.01,1.00,1.00,0.02
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.37 - Execution Time: 1.5070767402648926",0.04,1.00,1.00,0.09
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.37 - Execution Time: 1.4526646137237549",0.02,1.00,1.00,0.03
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=100, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.96 - Execution Time: 1.4542503356933594",0.01,1.00,1.00,0.03
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.74 - Execution Time: 1.4475114345550537",0.01,1.00,1.00,0.02
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.41 - Execution Time: 2.119744062423706",0.04,1.00,1.00,0.09
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.66 - Execution Time: 2.214419364929199",0.02,1.00,1.00,0.03
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=150, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.69 - Execution Time: 2.169790744781494",0.01,1.00,1.00,0.03
+"AirTemperature - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.69 - Execution Time: 2.117090940475464",0.01,1.00,1.00,0.02
+"AirTemperature - KNN(algorithm='auto', contamination=0.01, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.34 - Execution Time: 49.42080020904541",0.12,1.00,1.00,0.22
+"AirTemperature - KNN(algorithm='auto', contamination=0.05, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 51.65318322181702",0.12,1.00,1.00,0.22
+"AirTemperature - KNN(algorithm='auto', contamination=0.1, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 50.70656228065491",0.12,1.00,1.00,0.22
+"AirTemperature - KNN(algorithm='auto', contamination=0.15, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 0.0 - Execution Time: 52.43475914001465",0.12,1.00,1.00,0.22
+"AirTemperature - ABOD(contamination=0.01, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 60.618274211883545",0.00,0.00,0.00,0.00
+"AirTemperature - ABOD(contamination=0.05, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 54.82480502128601",0.00,0.00,0.00,0.00
+"AirTemperature - ABOD(contamination=0.1, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 50.52134442329407",0.00,0.00,0.00,0.00
+"AirTemperature - ABOD(contamination=0.15, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 50.36246037483215",0.00,0.00,0.00,0.00
+"AirTemperature - HBOS(alpha=0.1, contamination=0.01, n_bins=10, tol=0.5) - Threshold: std * 17.38 - Execution Time: 1.3352446556091309",0.08,1.00,1.00,0.15
+"AirTemperature - HBOS(alpha=0.1, contamination=0.05, n_bins=10, tol=0.5) - Threshold: std * 16.88 - Execution Time: 0.013446331024169922",0.06,1.00,1.00,0.11
+"AirTemperature - HBOS(alpha=0.1, contamination=0.1, n_bins=10, tol=0.5) - Threshold: std * 15.69 - Execution Time: 0.013237953186035156",0.03,1.00,1.00,0.05
+"AirTemperature - HBOS(alpha=0.1, contamination=0.15, n_bins=10, tol=0.5) - Threshold: std * 15.69 - Execution Time: 0.011566400527954102",0.01,1.00,1.00,0.02
+"AirTemperature - ECOD(contamination=0.01, n_jobs=1) - Threshold: std * 5.45 - Execution Time: 0.16704106330871582",0.07,1.00,1.00,0.13
+"AirTemperature - ECOD(contamination=0.05, n_jobs=1) - Threshold: std * 3.57 - Execution Time: 0.08155012130737305",0.02,1.00,1.00,0.04
+"AirTemperature - ECOD(contamination=0.1, n_jobs=1) - Threshold: std * 2.95 - Execution Time: 0.08107829093933105",0.01,1.00,1.00,0.03
+"AirTemperature - ECOD(contamination=0.15, n_jobs=1) - Threshold: std * 2.41 - Execution Time: 0.08408069610595703",0.01,1.00,1.00,0.02
+"WindSpeed - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 83.7329273223877",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 84.75299000740051",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 83.53215980529785",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=10, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 85.34715867042542",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 81.63295412063599",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 82.134348154068",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 86.20720195770264",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=30, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 81.96753478050232",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.01, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 83.40781784057617",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.05, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 82.06928181648254",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.1, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 81.74505567550659",1.00,1.00,1.00,1.00
+"WindSpeed - LOF(algorithm='auto', contamination=0.15, leaf_size=30, metric='minkowski',
+  metric_params=None, n_jobs=1, n_neighbors=50, novelty=True, p=2) - Threshold: std * 2.64 - Execution Time: 81.30987691879272",1.00,1.00,1.00,1.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 2.0 - Execution Time: 0.7681653499603271",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 0.7801930904388428",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=50, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 0.7865092754364014",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=50, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.88 - Execution Time: 0.7849245071411133",0.64,1.00,1.00,0.78
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 2.03 - Execution Time: 1.5060768127441406",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 1.586674451828003",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=100, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 1.5216050148010254",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=100, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.16 - Execution Time: 1.5233194828033447",0.64,1.00,1.00,0.78
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.01,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.93 - Execution Time: 2.229217290878296",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.05,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 0.0 - Execution Time: 2.265109062194824",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.1, max_features=1.0,
+    max_samples='auto', n_estimators=150, n_jobs=1, random_state=None,
+    verbose=0) - Threshold: std * 0.0 - Execution Time: 2.2634360790252686",0.00,0.00,0.00,0.00
+"WindSpeed - IForest(behaviour='old', bootstrap=False, contamination=0.15,
+    max_features=1.0, max_samples='auto', n_estimators=150, n_jobs=1,
+    random_state=None, verbose=0) - Threshold: std * 1.32 - Execution Time: 2.276947498321533",0.64,1.00,1.00,0.78
+"WindSpeed - KNN(algorithm='auto', contamination=0.01, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 2.64 - Execution Time: 106.86856889724731",1.00,1.00,1.00,1.00
+"WindSpeed - KNN(algorithm='auto', contamination=0.05, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 2.64 - Execution Time: 107.86794257164001",1.00,1.00,1.00,1.00
+"WindSpeed - KNN(algorithm='auto', contamination=0.1, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 2.64 - Execution Time: 114.45862984657288",1.00,1.00,1.00,1.00
+"WindSpeed - KNN(algorithm='auto', contamination=0.15, leaf_size=30, method='largest',
+  metric='minkowski', metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+  radius=1.0) - Threshold: std * 2.64 - Execution Time: 124.15332245826721",1.00,1.00,1.00,1.00
+"WindSpeed - ABOD(contamination=0.01, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 148.57558178901672",0.00,0.00,0.00,0.00
+"WindSpeed - ABOD(contamination=0.05, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 150.90109062194824",0.00,0.00,0.00,0.00
+"WindSpeed - ABOD(contamination=0.1, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 150.9653000831604",0.00,0.00,0.00,0.00
+"WindSpeed - ABOD(contamination=0.15, method='fast', n_neighbors=5) - Threshold: std * nan - Execution Time: 149.65134263038635",0.00,0.00,0.00,0.00
+"WindSpeed - HBOS(alpha=0.1, contamination=0.01, n_bins=10, tol=0.5) - Threshold: std * 4.49 - Execution Time: 0.0349726676940918",0.99,1.00,1.00,0.99
+"WindSpeed - HBOS(alpha=0.1, contamination=0.05, n_bins=10, tol=0.5) - Threshold: std * 4.49 - Execution Time: 0.02955341339111328",0.85,1.00,1.00,0.92
+"WindSpeed - HBOS(alpha=0.1, contamination=0.1, n_bins=10, tol=0.5) - Threshold: std * 4.49 - Execution Time: 0.023676633834838867",0.85,1.00,1.00,0.92
+"WindSpeed - HBOS(alpha=0.1, contamination=0.15, n_bins=10, tol=0.5) - Threshold: std * 4.49 - Execution Time: 0.020748376846313477",0.65,1.00,1.00,0.79
+"WindSpeed - ECOD(contamination=0.01, n_jobs=1) - Threshold: std * 4.4 - Execution Time: 0.12776994705200195",0.00,0.00,0.00,0.00
+"WindSpeed - ECOD(contamination=0.05, n_jobs=1) - Threshold: std * 2.92 - Execution Time: 0.12899351119995117",0.00,0.00,0.00,0.00
+"WindSpeed - ECOD(contamination=0.1, n_jobs=1) - Threshold: std * 2.91 - Execution Time: 0.13741230964660645",0.00,0.00,0.00,0.00
+"WindSpeed - ECOD(contamination=0.15, n_jobs=1) - Threshold: std * 2.91 - Execution Time: 0.17538738250732422",0.00,0.00,0.00,0.00
